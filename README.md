@@ -1,5 +1,5 @@
 # devops-aula2
 
-Arnold Schwarzenegger
-Julius Rock
-Will Smith
+- Arnold Schwarzenegger
+- Julius Rock
+- Will Smith
