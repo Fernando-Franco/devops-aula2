@@ -1,5 +1,6 @@
 # devops-aula2
 
 Arnold Schwarzenegger
-Julius Rock
+Heath Ledger
 Will Smith
+Anjolina Jolie
